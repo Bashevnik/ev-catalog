@@ -1,0 +1,864 @@
+{
+  "schemaVersion": "1",
+  "generatedAt": "2026-10-16T17:34:44.592Z",
+  "items": [
+    {
+      "id": "tesla-model-y-2023-awd-lrdm",
+      "type": "vehicle",
+      "listingStatus": "published",
+      "availability": "unknown",
+      "brand": "Tesla",
+      "model": "Model Y",
+      "title": "Tesla Model Y 2023",
+      "year": 2023,
+      "trim": {
+        "raw": "LR DM",
+        "normalized": null,
+        "verificationStatus": "needs_review"
+      },
+      "drivetrain": {
+        "value": "awd",
+        "rawPhrase": "Повний привід",
+        "verificationStatus": "needs_review"
+      },
+      "battery": {
+        "capacityKwh": null,
+        "reportedValue": 82,
+        "reportedUnitText": "кВт",
+        "chemistry": null,
+        "rawPhrase": "Батарея 82 кВт",
+        "verificationStatus": "needs_review"
+      },
+      "range": {
+        "value": null,
+        "unit": null,
+        "cycle": null,
+        "sourcePhrase": null,
+        "verificationStatus": "unknown"
+      },
+      "mileage": {
+        "value": null,
+        "unit": null,
+        "rawText": "Пробіг 136 т. м",
+        "verificationStatus": "unknown"
+      },
+      "price": {
+        "asking": {
+          "amount": 15000,
+          "currency": null,
+          "verificationStatus": "needs_review"
+        },
+        "turnkey": {
+          "amount": 19000,
+          "currency": null,
+          "verificationStatus": "needs_review"
+        }
+      },
+      "media": [
+        {
+          "id": "tesla-model-y-2023-awd-lrdm-clip",
+          "kind": "video",
+          "role": "hero",
+          "url": "media/vehicles/tesla-model-y-2023-awd-lrdm/clip.mp4",
+          "pendingReason": null,
+          "posterUrl": "media/vehicles/tesla-model-y-2023-awd-lrdm/poster.jpg",
+          "width": 272,
+          "height": 480,
+          "alt": "Відео автомобіля від продавця на автовозі",
+          "isActualVehicle": true,
+          "origin": {
+            "provider": "owner_upload",
+            "pageUrl": null,
+            "creator": null,
+            "licenseUrl": null,
+            "selectedAt": null,
+            "intendedUse": "відео саме цього авто, від продавця"
+          }
+        },
+        {
+          "id": "tesla-model-y-2023-awd-lrdm-photo-1",
+          "kind": "photo",
+          "role": "gallery",
+          "url": "media/vehicles/tesla-model-y-2023-awd-lrdm/photo-1.jpg",
+          "pendingReason": null,
+          "posterUrl": null,
+          "width": 272,
+          "height": 480,
+          "alt": "Кадр з відео продавця: передня ліва частина з пошкодженням крила",
+          "isActualVehicle": true,
+          "origin": {
+            "provider": "owner_upload",
+            "pageUrl": null,
+            "creator": null,
+            "licenseUrl": null,
+            "selectedAt": null,
+            "intendedUse": "кадр із відео продавця"
+          }
+        },
+        {
+          "id": "tesla-model-y-2023-awd-lrdm-photo-2",
+          "kind": "photo",
+          "role": "gallery",
+          "url": "media/vehicles/tesla-model-y-2023-awd-lrdm/photo-2.jpg",
+          "pendingReason": null,
+          "posterUrl": null,
+          "width": 272,
+          "height": 480,
+          "alt": "Кадр з відео продавця: бічна частина, передні двері",
+          "isActualVehicle": true,
+          "origin": {
+            "provider": "owner_upload",
+            "pageUrl": null,
+            "creator": null,
+            "licenseUrl": null,
+            "selectedAt": null,
+            "intendedUse": "кадр із відео продавця"
+          }
+        },
+        {
+          "id": "tesla-model-y-2023-awd-lrdm-photo-3",
+          "kind": "photo",
+          "role": "gallery",
+          "url": "media/vehicles/tesla-model-y-2023-awd-lrdm/photo-3.jpg",
+          "pendingReason": null,
+          "posterUrl": null,
+          "width": 272,
+          "height": 480,
+          "alt": "Кадр з відео продавця: заднє крило і колесо",
+          "isActualVehicle": true,
+          "origin": {
+            "provider": "owner_upload",
+            "pageUrl": null,
+            "creator": null,
+            "licenseUrl": null,
+            "selectedAt": null,
+            "intendedUse": "кадр із відео продавця"
+          }
+        },
+        {
+          "id": "tesla-model-y-2023-awd-lrdm-photo-4",
+          "kind": "photo",
+          "role": "gallery",
+          "url": "media/vehicles/tesla-model-y-2023-awd-lrdm/photo-4.jpg",
+          "pendingReason": null,
+          "posterUrl": null,
+          "width": 272,
+          "height": 480,
+          "alt": "Кадр з відео продавця: напис Dual Motor на кришці багажника",
+          "isActualVehicle": true,
+          "origin": {
+            "provider": "owner_upload",
+            "pageUrl": null,
+            "creator": null,
+            "licenseUrl": null,
+            "selectedAt": null,
+            "intendedUse": "кадр із відео продавця"
+          }
+        },
+        {
+          "id": "tesla-model-y-2023-awd-lrdm-photo-5",
+          "kind": "photo",
+          "role": "gallery",
+          "url": "media/vehicles/tesla-model-y-2023-awd-lrdm/photo-5.jpg",
+          "pendingReason": null,
+          "posterUrl": null,
+          "width": 272,
+          "height": 480,
+          "alt": "Кадр з відео продавця: бічні двері, на лобовому склі стрічка",
+          "isActualVehicle": true,
+          "origin": {
+            "provider": "owner_upload",
+            "pageUrl": null,
+            "creator": null,
+            "licenseUrl": null,
+            "selectedAt": null,
+            "intendedUse": "кадр із відео продавця"
+          }
+        },
+        {
+          "id": "tesla-model-y-2023-awd-lrdm-photo-6",
+          "kind": "photo",
+          "role": "gallery",
+          "url": "media/vehicles/tesla-model-y-2023-awd-lrdm/photo-6.jpg",
+          "pendingReason": null,
+          "posterUrl": null,
+          "width": 272,
+          "height": 480,
+          "alt": "Кадр з відео продавця: передня частина після удару",
+          "isActualVehicle": true,
+          "origin": {
+            "provider": "owner_upload",
+            "pageUrl": null,
+            "creator": null,
+            "licenseUrl": null,
+            "selectedAt": null,
+            "intendedUse": "кадр із відео продавця"
+          }
+        },
+        {
+          "id": "tesla-model-y-2023-awd-lrdm-photo-7",
+          "kind": "photo",
+          "role": "gallery",
+          "url": "media/vehicles/tesla-model-y-2023-awd-lrdm/photo-7.jpg",
+          "pendingReason": null,
+          "posterUrl": null,
+          "width": 272,
+          "height": 480,
+          "alt": "Кадр з відео продавця: розбита фара і передній бампер",
+          "isActualVehicle": true,
+          "origin": {
+            "provider": "owner_upload",
+            "pageUrl": null,
+            "creator": null,
+            "licenseUrl": null,
+            "selectedAt": null,
+            "intendedUse": "кадр із відео продавця"
+          }
+        }
+      ],
+      "provenance": {
+        "sourceType": "viber_text",
+        "rawText": "🚙2023 TESLA Y\n🚘LR DM\n🛞Повний привід\n🔋Батарея 82 кВт\n🏁Пробіг 136 т. м\n💵Ціна 15 000\n🔑Під ключ 19000",
+        "importedAt": "2026-10-14T21:51:03.127Z",
+        "quotes": {
+          "brand": "2023 TESLA Y",
+          "year": "2023 TESLA Y",
+          "model": "2023 TESLA Y",
+          "drivetrain": "Повний привід",
+          "battery": "Батарея 82 кВт",
+          "mileage": "Пробіг 136 т. м",
+          "price.asking": "Ціна 15 000",
+          "price.turnkey": "Під ключ 19000",
+          "trim": "LR DM"
+        },
+        "fieldsToVerify": [
+          "battery.capacityKwh",
+          "mileage",
+          "price.asking.currency",
+          "price.turnkey.currency",
+          "range",
+          "availability",
+          "condition"
+        ],
+        "conflicts": []
+      },
+      "createdAt": "2026-10-15T00:00:00.000Z",
+      "updatedAt": "2026-10-15T00:00:00.000Z",
+      "soldAt": null
+    },
+    {
+      "id": "tesla-model-y-2023-rwd-lfp",
+      "type": "vehicle",
+      "listingStatus": "published",
+      "availability": "unknown",
+      "brand": "Tesla",
+      "model": "Model Y",
+      "title": "Tesla Model Y 2023",
+      "year": 2023,
+      "trim": {
+        "raw": null,
+        "normalized": null,
+        "verificationStatus": "unknown"
+      },
+      "drivetrain": {
+        "value": "rwd",
+        "rawPhrase": "Задній привід",
+        "verificationStatus": "needs_review"
+      },
+      "battery": {
+        "capacityKwh": null,
+        "reportedValue": 62,
+        "reportedUnitText": "кВт",
+        "chemistry": "LFP",
+        "rawPhrase": "Батарея LFP 62 кВт",
+        "verificationStatus": "needs_review"
+      },
+      "range": {
+        "value": null,
+        "unit": null,
+        "cycle": null,
+        "sourcePhrase": null,
+        "verificationStatus": "unknown"
+      },
+      "mileage": {
+        "value": 54000,
+        "unit": "km",
+        "rawText": "Пробіг 54 т. км",
+        "verificationStatus": "needs_review"
+      },
+      "price": {
+        "asking": {
+          "amount": 25900,
+          "currency": null,
+          "verificationStatus": "needs_review"
+        },
+        "turnkey": {
+          "amount": null,
+          "currency": null,
+          "verificationStatus": "unknown"
+        }
+      },
+      "media": [
+        {
+          "id": "tesla-model-y-2023-rwd-lfp-clip",
+          "kind": "video",
+          "role": "hero",
+          "url": "media/vehicles/tesla-model-y-2023-rwd-lfp/clip.mp4",
+          "pendingReason": null,
+          "posterUrl": "media/vehicles/tesla-model-y-2023-rwd-lfp/poster.jpg",
+          "width": 1000,
+          "height": 620,
+          "alt": "Відео автомобіля від продавця",
+          "isActualVehicle": true,
+          "origin": {
+            "provider": "owner_upload",
+            "pageUrl": null,
+            "creator": null,
+            "licenseUrl": null,
+            "selectedAt": null,
+            "intendedUse": "відео саме цього авто, від продавця"
+          }
+        },
+        {
+          "id": "tesla-model-y-2023-rwd-lfp-photo-1",
+          "kind": "photo",
+          "role": "gallery",
+          "url": "media/vehicles/tesla-model-y-2023-rwd-lfp/photo-1.jpg",
+          "pendingReason": null,
+          "posterUrl": null,
+          "width": 1000,
+          "height": 620,
+          "alt": "Кадр з відео продавця: передня частина, три чверті",
+          "isActualVehicle": true,
+          "origin": {
+            "provider": "owner_upload",
+            "pageUrl": null,
+            "creator": null,
+            "licenseUrl": null,
+            "selectedAt": null,
+            "intendedUse": "кадр із відео продавця"
+          }
+        },
+        {
+          "id": "tesla-model-y-2023-rwd-lfp-photo-2",
+          "kind": "photo",
+          "role": "gallery",
+          "url": "media/vehicles/tesla-model-y-2023-rwd-lfp/photo-2.jpg",
+          "pendingReason": null,
+          "posterUrl": null,
+          "width": 1000,
+          "height": 620,
+          "alt": "Кадр з відео продавця: задня частина, три чверті",
+          "isActualVehicle": true,
+          "origin": {
+            "provider": "owner_upload",
+            "pageUrl": null,
+            "creator": null,
+            "licenseUrl": null,
+            "selectedAt": null,
+            "intendedUse": "кадр із відео продавця"
+          }
+        },
+        {
+          "id": "tesla-model-y-2023-rwd-lfp-photo-3",
+          "kind": "photo",
+          "role": "gallery",
+          "url": "media/vehicles/tesla-model-y-2023-rwd-lfp/photo-3.jpg",
+          "pendingReason": null,
+          "posterUrl": null,
+          "width": 1000,
+          "height": 620,
+          "alt": "Кадр з відео продавця: бічний профіль",
+          "isActualVehicle": true,
+          "origin": {
+            "provider": "owner_upload",
+            "pageUrl": null,
+            "creator": null,
+            "licenseUrl": null,
+            "selectedAt": null,
+            "intendedUse": "кадр із відео продавця"
+          }
+        },
+        {
+          "id": "tesla-model-y-2023-rwd-lfp-photo-4",
+          "kind": "photo",
+          "role": "gallery",
+          "url": "media/vehicles/tesla-model-y-2023-rwd-lfp/photo-4.jpg",
+          "pendingReason": null,
+          "posterUrl": null,
+          "width": 1000,
+          "height": 620,
+          "alt": "Кадр з відео продавця: передня частина зблизька",
+          "isActualVehicle": true,
+          "origin": {
+            "provider": "owner_upload",
+            "pageUrl": null,
+            "creator": null,
+            "licenseUrl": null,
+            "selectedAt": null,
+            "intendedUse": "кадр із відео продавця"
+          }
+        },
+        {
+          "id": "tesla-model-y-2023-rwd-lfp-photo-5",
+          "kind": "photo",
+          "role": "gallery",
+          "url": "media/vehicles/tesla-model-y-2023-rwd-lfp/photo-5.jpg",
+          "pendingReason": null,
+          "posterUrl": null,
+          "width": 1000,
+          "height": 620,
+          "alt": "Кадр з відео продавця: відчинені двері, салон",
+          "isActualVehicle": true,
+          "origin": {
+            "provider": "owner_upload",
+            "pageUrl": null,
+            "creator": null,
+            "licenseUrl": null,
+            "selectedAt": null,
+            "intendedUse": "кадр із відео продавця"
+          }
+        }
+      ],
+      "provenance": {
+        "sourceType": "viber_text",
+        "rawText": "🚙2023 TESLA Y\n🛞Задній привід\n🔋Батарея LFP 62 кВт\n🏁Пробіг 54 т. км\n💵Ціна 25 900",
+        "importedAt": "2026-10-14T21:51:03.129Z",
+        "quotes": {
+          "brand": "2023 TESLA Y",
+          "year": "2023 TESLA Y",
+          "model": "2023 TESLA Y",
+          "drivetrain": "Задній привід",
+          "battery": "Батарея LFP 62 кВт",
+          "mileage": "Пробіг 54 т. км",
+          "price.asking": "Ціна 25 900"
+        },
+        "fieldsToVerify": [
+          "battery.capacityKwh",
+          "price.asking.currency",
+          "price.turnkey",
+          "range",
+          "trim",
+          "availability"
+        ],
+        "conflicts": []
+      },
+      "createdAt": "2026-10-15T00:00:00.000Z",
+      "updatedAt": "2026-10-15T00:00:00.000Z",
+      "soldAt": null
+    },
+    {
+      "id": "test-inverter-hybrid-8kw",
+      "type": "equipment",
+      "listingStatus": "published",
+      "availability": "in_stock",
+      "brand": null,
+      "model": null,
+      "title": "Гібридний інвертор 8 кВт",
+      "category": "inverter",
+      "condition": "new",
+      "specs": {
+        "connectorTypes": [],
+        "other": {},
+        "powerKw": 8,
+        "phases": 1,
+        "inputVoltage": "48 В",
+        "outputVoltage": "230 В",
+        "warranty": "24 місяці"
+      },
+      "price": {
+        "asking": {
+          "amount": 54900,
+          "currency": "UAH",
+          "verificationStatus": "confirmed"
+        },
+        "turnkey": {
+          "amount": null,
+          "currency": null,
+          "verificationStatus": "confirmed"
+        }
+      },
+      "media": [
+        {
+          "id": "inverter-hybrid-photo",
+          "kind": "photo",
+          "role": "hero",
+          "url": "media/products/inverter-hybrid.jpg",
+          "pendingReason": null,
+          "posterUrl": null,
+          "width": null,
+          "height": null,
+          "alt": "Гібридний інвертор, тестова позиція каталогу",
+          "isActualVehicle": false,
+          "origin": {
+            "provider": "pexels",
+            "pageUrl": null,
+            "creator": null,
+            "licenseUrl": "https://www.pexels.com/license",
+            "selectedAt": "2026-10-15",
+            "intendedUse": "ілюстрація тестової позиції каталогу"
+          }
+        }
+      ],
+      "provenance": {
+        "sourceType": "test_data",
+        "rawText": "Тестова позиція. Характеристики умовні, їх треба замінити даними постачальника.",
+        "importedAt": "2026-10-15T00:00:00.000Z",
+        "quotes": {},
+        "fieldsToVerify": [
+          "price.asking",
+          "specs"
+        ],
+        "conflicts": []
+      },
+      "createdAt": "2026-10-15T00:00:00.000Z",
+      "updatedAt": "2026-10-15T00:00:00.000Z",
+      "soldAt": null
+    },
+    {
+      "id": "test-battery-lfp-10kwh",
+      "type": "equipment",
+      "listingStatus": "published",
+      "availability": "in_stock",
+      "brand": null,
+      "model": null,
+      "title": "Акумулятор LiFePO4 10 кВт·год",
+      "category": "battery",
+      "condition": "new",
+      "specs": {
+        "connectorTypes": [],
+        "other": {
+          "Цикли": "6000 при 80% DoD"
+        },
+        "capacityKwh": 10,
+        "chemistry": "LiFePO4",
+        "nominalVoltage": "51.2 В",
+        "warranty": "60 місяців"
+      },
+      "price": {
+        "asking": {
+          "amount": 89900,
+          "currency": "UAH",
+          "verificationStatus": "confirmed"
+        },
+        "turnkey": {
+          "amount": null,
+          "currency": null,
+          "verificationStatus": "confirmed"
+        }
+      },
+      "media": [
+        {
+          "id": "battery-lfp-photo",
+          "kind": "photo",
+          "role": "hero",
+          "url": "media/products/battery-lfp.jpg",
+          "pendingReason": null,
+          "posterUrl": null,
+          "width": null,
+          "height": null,
+          "alt": "Акумуляторний модуль, тестова позиція каталогу",
+          "isActualVehicle": false,
+          "origin": {
+            "provider": "pexels",
+            "pageUrl": null,
+            "creator": null,
+            "licenseUrl": "https://www.pexels.com/license",
+            "selectedAt": "2026-10-15",
+            "intendedUse": "ілюстрація тестової позиції каталогу"
+          }
+        }
+      ],
+      "provenance": {
+        "sourceType": "test_data",
+        "rawText": "Тестова позиція. Характеристики умовні, їх треба замінити даними постачальника.",
+        "importedAt": "2026-10-15T00:00:00.000Z",
+        "quotes": {},
+        "fieldsToVerify": [
+          "price.asking",
+          "specs"
+        ],
+        "conflicts": []
+      },
+      "createdAt": "2026-10-15T00:00:00.000Z",
+      "updatedAt": "2026-10-15T00:00:00.000Z",
+      "soldAt": null
+    },
+    {
+      "id": "test-wallbox-7kw",
+      "type": "equipment",
+      "listingStatus": "published",
+      "availability": "in_stock",
+      "brand": null,
+      "model": null,
+      "title": "Зарядна станція 7 кВт, Type 2",
+      "category": "charging_station",
+      "condition": "new",
+      "specs": {
+        "connectorTypes": [
+          "Type 2"
+        ],
+        "other": {},
+        "powerKw": 7.4,
+        "phases": 1,
+        "maxChargingPowerKw": 7.4,
+        "warranty": "24 місяці"
+      },
+      "price": {
+        "asking": {
+          "amount": 18500,
+          "currency": "UAH",
+          "verificationStatus": "confirmed"
+        },
+        "turnkey": {
+          "amount": null,
+          "currency": null,
+          "verificationStatus": "confirmed"
+        }
+      },
+      "media": [
+        {
+          "id": "wallbox-7kw-photo",
+          "kind": "photo",
+          "role": "hero",
+          "url": "media/products/wallbox-7kw.jpg",
+          "pendingReason": null,
+          "posterUrl": null,
+          "width": null,
+          "height": null,
+          "alt": "Настінна зарядна станція, тестова позиція каталогу",
+          "isActualVehicle": false,
+          "origin": {
+            "provider": "pexels",
+            "pageUrl": null,
+            "creator": null,
+            "licenseUrl": "https://www.pexels.com/license",
+            "selectedAt": "2026-10-15",
+            "intendedUse": "ілюстрація тестової позиції каталогу"
+          }
+        }
+      ],
+      "provenance": {
+        "sourceType": "test_data",
+        "rawText": "Тестова позиція. Характеристики умовні, їх треба замінити даними постачальника.",
+        "importedAt": "2026-10-15T00:00:00.000Z",
+        "quotes": {},
+        "fieldsToVerify": [
+          "price.asking",
+          "specs"
+        ],
+        "conflicts": []
+      },
+      "createdAt": "2026-10-15T00:00:00.000Z",
+      "updatedAt": "2026-10-15T00:00:00.000Z",
+      "soldAt": null
+    },
+    {
+      "id": "test-portable-station-2kwh",
+      "type": "equipment",
+      "listingStatus": "published",
+      "availability": "in_stock",
+      "brand": null,
+      "model": null,
+      "title": "Портативна станція 2 кВт·год",
+      "category": "accessory",
+      "condition": "new",
+      "specs": {
+        "connectorTypes": [],
+        "other": {
+          "Вага": "19 кг"
+        },
+        "powerKw": 2.2,
+        "capacityKwh": 2,
+        "outputVoltage": "230 В",
+        "warranty": "24 місяці"
+      },
+      "price": {
+        "asking": {
+          "amount": 32400,
+          "currency": "UAH",
+          "verificationStatus": "confirmed"
+        },
+        "turnkey": {
+          "amount": null,
+          "currency": null,
+          "verificationStatus": "confirmed"
+        }
+      },
+      "media": [
+        {
+          "id": "portable-station-photo",
+          "kind": "photo",
+          "role": "hero",
+          "url": "media/products/portable-station.jpg",
+          "pendingReason": null,
+          "posterUrl": null,
+          "width": null,
+          "height": null,
+          "alt": "Портативна зарядна станція, тестова позиція каталогу",
+          "isActualVehicle": false,
+          "origin": {
+            "provider": "pexels",
+            "pageUrl": null,
+            "creator": null,
+            "licenseUrl": "https://www.pexels.com/license",
+            "selectedAt": "2026-10-15",
+            "intendedUse": "ілюстрація тестової позиції каталогу"
+          }
+        }
+      ],
+      "provenance": {
+        "sourceType": "test_data",
+        "rawText": "Тестова позиція. Характеристики умовні, їх треба замінити даними постачальника.",
+        "importedAt": "2026-10-15T00:00:00.000Z",
+        "quotes": {},
+        "fieldsToVerify": [
+          "price.asking",
+          "specs"
+        ],
+        "conflicts": []
+      },
+      "createdAt": "2026-10-15T00:00:00.000Z",
+      "updatedAt": "2026-10-15T00:00:00.000Z",
+      "soldAt": null
+    },
+    {
+      "id": "test-solar-panel-450w",
+      "type": "equipment",
+      "listingStatus": "published",
+      "availability": "in_stock",
+      "brand": null,
+      "model": null,
+      "title": "Сонячна панель 450 Вт",
+      "category": "other",
+      "condition": "new",
+      "specs": {
+        "connectorTypes": [
+          "MC4"
+        ],
+        "other": {
+          "Розмір": "1762 × 1134 мм"
+        },
+        "powerKw": 0.45,
+        "warranty": "120 місяців"
+      },
+      "price": {
+        "asking": {
+          "amount": 4200,
+          "currency": "UAH",
+          "verificationStatus": "confirmed"
+        },
+        "turnkey": {
+          "amount": null,
+          "currency": null,
+          "verificationStatus": "confirmed"
+        }
+      },
+      "media": [
+        {
+          "id": "solar-panel-photo",
+          "kind": "photo",
+          "role": "hero",
+          "url": "media/products/solar-panel.jpg",
+          "pendingReason": null,
+          "posterUrl": null,
+          "width": null,
+          "height": null,
+          "alt": "Монокристалічна сонячна панель, тестова позиція каталогу",
+          "isActualVehicle": false,
+          "origin": {
+            "provider": "pexels",
+            "pageUrl": null,
+            "creator": null,
+            "licenseUrl": "https://www.pexels.com/license",
+            "selectedAt": "2026-10-15",
+            "intendedUse": "ілюстрація тестової позиції каталогу"
+          }
+        }
+      ],
+      "provenance": {
+        "sourceType": "test_data",
+        "rawText": "Тестова позиція. Характеристики умовні, їх треба замінити даними постачальника.",
+        "importedAt": "2026-10-15T00:00:00.000Z",
+        "quotes": {},
+        "fieldsToVerify": [
+          "price.asking",
+          "specs"
+        ],
+        "conflicts": []
+      },
+      "createdAt": "2026-10-15T00:00:00.000Z",
+      "updatedAt": "2026-10-15T00:00:00.000Z",
+      "soldAt": null
+    },
+    {
+      "id": "test-charge-cable-type2",
+      "type": "equipment",
+      "listingStatus": "published",
+      "availability": "in_stock",
+      "brand": null,
+      "model": null,
+      "title": "Кабель Type 2 - Type 2, 7 м",
+      "category": "accessory",
+      "condition": "new",
+      "specs": {
+        "connectorTypes": [
+          "Type 2"
+        ],
+        "other": {
+          "Довжина": "7 м"
+        },
+        "maxChargingPowerKw": 22,
+        "warranty": "12 місяців"
+      },
+      "price": {
+        "asking": {
+          "amount": 6900,
+          "currency": "UAH",
+          "verificationStatus": "confirmed"
+        },
+        "turnkey": {
+          "amount": null,
+          "currency": null,
+          "verificationStatus": "confirmed"
+        }
+      },
+      "media": [
+        {
+          "id": "charge-cable-photo",
+          "kind": "photo",
+          "role": "hero",
+          "url": "media/products/charge-cable.jpg",
+          "pendingReason": null,
+          "posterUrl": null,
+          "width": null,
+          "height": null,
+          "alt": "Зарядний кабель Type 2, тестова позиція каталогу",
+          "isActualVehicle": false,
+          "origin": {
+            "provider": "pexels",
+            "pageUrl": null,
+            "creator": null,
+            "licenseUrl": "https://www.pexels.com/license",
+            "selectedAt": "2026-10-15",
+            "intendedUse": "ілюстрація тестової позиції каталогу"
+          }
+        }
+      ],
+      "provenance": {
+        "sourceType": "test_data",
+        "rawText": "Тестова позиція. Характеристики умовні, їх треба замінити даними постачальника.",
+        "importedAt": "2026-10-15T00:00:00.000Z",
+        "quotes": {},
+        "fieldsToVerify": [
+          "price.asking",
+          "specs"
+        ],
+        "conflicts": []
+      },
+      "createdAt": "2026-10-15T00:00:00.000Z",
+      "updatedAt": "2026-10-15T00:00:00.000Z",
+      "soldAt": null
+    }
+  ]
+}

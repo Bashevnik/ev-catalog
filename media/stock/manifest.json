@@ -1,0 +1,450 @@
+{
+  "note": "Стоковий матеріал. Жоден кадр звідси не є фотографією конкретного авто з каталогу — у картках авто тільки медіа від продавця.",
+  "attribution": "Відео та фото: Pexels. Автори вказані нижче і в підвалі сайту.",
+  "licenseUrl": "https://www.pexels.com/license",
+  "updatedAt": "2026-10-15",
+  "items": [
+    {
+      "id": "hero-meadow",
+      "role": "hero",
+      "intendedUse": "головна: головний екран",
+      "isActualVehicle": false,
+      "provider": "pexels",
+      "providerId": 5558208,
+      "pageUrl": "https://www.pexels.com/video/vehicle-travelling-on-the-road-5558208/",
+      "creator": "Andrey Baranov",
+      "creatorUrl": "https://www.pexels.com/@andrey-baranov-2058598",
+      "licenseUrl": "https://www.pexels.com/license",
+      "master": {
+        "width": 3840,
+        "height": 2160,
+        "durationSec": 20,
+        "note": "4K-майстер лишається поза репозиторієм (media/_src), на Pages їде лише веб-рендишн"
+      },
+      "files": [
+        {
+          "path": "media/stock/hero-meadow.jpg",
+          "width": 1920,
+          "height": 1080,
+          "durationSec": 0,
+          "bytes": 182889
+        },
+        {
+          "path": "media/stock/hero-meadow.mp4",
+          "width": 1920,
+          "height": 1080,
+          "durationSec": 10,
+          "bytes": 4807860
+        },
+        {
+          "path": "media/stock/hero-meadow-sm.mp4",
+          "width": 1280,
+          "height": 720,
+          "durationSec": 10,
+          "bytes": 1641484
+        },
+        {
+          "path": "media/stock/hero-meadow-portrait.jpg",
+          "width": 810,
+          "height": 1080,
+          "durationSec": 0,
+          "bytes": 90220
+        }
+      ]
+    },
+    {
+      "id": "tesla-aerial",
+      "role": "transition",
+      "intendedUse": "головна: смуга переходу в каталог авто",
+      "isActualVehicle": false,
+      "provider": "pexels",
+      "providerId": 13798752,
+      "pageUrl": "https://www.pexels.com/photo/white-car-with-black-top-on-the-road-13798752/",
+      "creator": "Hyundai Motor Group",
+      "creatorUrl": "https://www.pexels.com/@hyundaimotorgroup",
+      "licenseUrl": "https://www.pexels.com/license",
+      "master": {
+        "width": 6000,
+        "height": 4000,
+        "durationSec": null,
+        "note": "4K-майстер лишається поза репозиторієм (media/_src), на Pages їде лише веб-рендишн"
+      },
+      "files": [
+        {
+          "path": "media/stock/tesla-aerial.jpg",
+          "width": 1880,
+          "height": 1254,
+          "durationSec": 0,
+          "bytes": 608989
+        }
+      ]
+    },
+    {
+      "id": "home-energy",
+      "role": "energy-band",
+      "intendedUse": "головна: смуга переходу в каталог товарів",
+      "isActualVehicle": false,
+      "provider": "pexels",
+      "providerId": 39024323,
+      "pageUrl": "https://www.pexels.com/video/luxurious-modern-home-aerial-at-twilight-39024323/",
+      "creator": "Alef Morais",
+      "creatorUrl": "https://www.pexels.com/@alef-morais-336305364",
+      "licenseUrl": "https://www.pexels.com/license",
+      "master": {
+        "width": 3840,
+        "height": 2160,
+        "durationSec": 9,
+        "note": "4K-майстер лишається поза репозиторієм (media/_src), на Pages їде лише веб-рендишн"
+      },
+      "files": [
+        {
+          "path": "media/stock/home-energy.jpg",
+          "width": 1920,
+          "height": 1080,
+          "durationSec": 0,
+          "bytes": 178467
+        },
+        {
+          "path": "media/stock/home-energy.mp4",
+          "width": 1920,
+          "height": 1080,
+          "durationSec": 6.5,
+          "bytes": 2058038
+        },
+        {
+          "path": "media/stock/home-energy-sm.mp4",
+          "width": 1280,
+          "height": 720,
+          "durationSec": 6.5,
+          "bytes": 712786
+        }
+      ]
+    },
+    {
+      "id": "hero-causeway",
+      "role": "catalog-hero",
+      "intendedUse": "шапка сторінки /avto",
+      "isActualVehicle": false,
+      "provider": "pexels",
+      "providerId": 2878091,
+      "pageUrl": "https://www.pexels.com/video/drone-footage-of-road-2878091/",
+      "creator": "K",
+      "creatorUrl": "https://www.pexels.com/@kelly",
+      "licenseUrl": "https://www.pexels.com/license",
+      "master": {
+        "width": 3840,
+        "height": 2160,
+        "durationSec": 19,
+        "note": "4K-майстер лишається поза репозиторієм (media/_src), на Pages їде лише веб-рендишн"
+      },
+      "files": [
+        {
+          "path": "media/stock/hero-causeway.jpg",
+          "width": 1920,
+          "height": 1080,
+          "durationSec": 0,
+          "bytes": 209283
+        },
+        {
+          "path": "media/stock/hero-causeway.mp4",
+          "width": 1920,
+          "height": 1080,
+          "durationSec": 9,
+          "bytes": 3955041
+        },
+        {
+          "path": "media/stock/hero-causeway-sm.mp4",
+          "width": 1280,
+          "height": 720,
+          "durationSec": 9,
+          "bytes": 1413137
+        }
+      ]
+    },
+    {
+      "id": "superchargers",
+      "role": "shop-hero",
+      "intendedUse": "шапка сторінки /katalog",
+      "isActualVehicle": false,
+      "provider": "pexels",
+      "providerId": 37576187,
+      "pageUrl": "https://www.pexels.com/photo/electric-car-charging-at-station-with-multiple-chargers-37576187/",
+      "creator": "Giant Asparagus",
+      "creatorUrl": "https://www.pexels.com/@giantasparagus",
+      "licenseUrl": "https://www.pexels.com/license",
+      "master": {
+        "width": 5184,
+        "height": 3888,
+        "durationSec": null,
+        "note": "4K-майстер лишається поза репозиторієм (media/_src), на Pages їде лише веб-рендишн"
+      },
+      "files": [
+        {
+          "path": "media/stock/superchargers.jpg",
+          "width": 1880,
+          "height": 1410,
+          "durationSec": 0,
+          "bytes": 245680
+        }
+      ]
+    },
+    {
+      "id": "charging",
+      "role": "charging",
+      "intendedUse": "/katalog: смуга про зарядку вдома",
+      "isActualVehicle": false,
+      "provider": "pexels",
+      "providerId": 4817952,
+      "pageUrl": "https://www.pexels.com/video/charging-an-electric-car-4817952/",
+      "creator": "Gustavo Fring",
+      "creatorUrl": "https://www.pexels.com/@gustavo-fring",
+      "licenseUrl": "https://www.pexels.com/license",
+      "master": {
+        "width": 3840,
+        "height": 2160,
+        "durationSec": 15,
+        "note": "4K-майстер лишається поза репозиторієм (media/_src), на Pages їде лише веб-рендишн"
+      },
+      "files": [
+        {
+          "path": "media/stock/charging.jpg",
+          "width": 1920,
+          "height": 1080,
+          "durationSec": 0,
+          "bytes": 79977
+        },
+        {
+          "path": "media/stock/charging.mp4",
+          "width": 1920,
+          "height": 1080,
+          "durationSec": 10,
+          "bytes": 1779459
+        },
+        {
+          "path": "media/stock/charging-sm.mp4",
+          "width": 1280,
+          "height": 720,
+          "durationSec": 10,
+          "bytes": 674506
+        }
+      ]
+    },
+    {
+      "id": "wallbox",
+      "role": "equipment",
+      "intendedUse": "/katalog: кадр зарядної станції",
+      "isActualVehicle": false,
+      "provider": "pexels",
+      "providerId": 34800670,
+      "pageUrl": "https://www.pexels.com/photo/electric-vehicle-charging-station-close-up-34800670/",
+      "creator": "smart-me AG",
+      "creatorUrl": "https://www.pexels.com/@smart-me-ag-2155714756",
+      "licenseUrl": "https://www.pexels.com/license",
+      "master": {
+        "width": 6000,
+        "height": 4000,
+        "durationSec": null,
+        "note": "4K-майстер лишається поза репозиторієм (media/_src), на Pages їде лише веб-рендишн"
+      },
+      "files": [
+        {
+          "path": "media/stock/wallbox.jpg",
+          "width": 1880,
+          "height": 1254,
+          "durationSec": 0,
+          "bytes": 60551
+        }
+      ]
+    },
+    {
+      "id": "solar-home",
+      "role": "energy-still",
+      "intendedUse": "/katalog: кадр панелей",
+      "isActualVehicle": false,
+      "provider": "pexels",
+      "providerId": 12243093,
+      "pageUrl": "https://www.pexels.com/photo/a-house-with-solar-panel-on-the-roof-12243093/",
+      "creator": "Robert So",
+      "creatorUrl": "https://www.pexels.com/@robertkso",
+      "licenseUrl": "https://www.pexels.com/license",
+      "master": {
+        "width": 6240,
+        "height": 4160,
+        "durationSec": null,
+        "note": "4K-майстер лишається поза репозиторієм (media/_src), на Pages їде лише веб-рендишн"
+      },
+      "files": [
+        {
+          "path": "media/stock/solar-home.jpg",
+          "width": 1880,
+          "height": 1254,
+          "durationSec": 0,
+          "bytes": 488170
+        }
+      ]
+    },
+    {
+      "id": "solar-aerial",
+      "role": "energy-still-2",
+      "intendedUse": "/katalog: кадр будинку з панелями",
+      "isActualVehicle": false,
+      "provider": "pexels",
+      "providerId": 16432398,
+      "pageUrl": "https://www.pexels.com/photo/aerial-view-of-houses-16432398/",
+      "creator": "Janick Bunzel",
+      "creatorUrl": "https://www.pexels.com/@janick-bunzel-469302100",
+      "licenseUrl": "https://www.pexels.com/license",
+      "master": {
+        "width": 3877,
+        "height": 2181,
+        "durationSec": null,
+        "note": "4K-майстер лишається поза репозиторієм (media/_src), на Pages їде лише веб-рендишн"
+      },
+      "files": [
+        {
+          "path": "media/stock/solar-aerial.jpg",
+          "width": 1880,
+          "height": 1058,
+          "durationSec": 0,
+          "bytes": 346847
+        }
+      ]
+    },
+    {
+      "id": "night-highway",
+      "role": "about-hero",
+      "intendedUse": "шапка сторінки /pro-nas",
+      "isActualVehicle": false,
+      "provider": "pexels",
+      "providerId": 29376752,
+      "pageUrl": "https://www.pexels.com/video/aerial-night-time-lapse-of-busy-highway-29376752/",
+      "creator": "Piotr Wojnowski",
+      "creatorUrl": "https://www.pexels.com/@piotr-wojnowski-2767306",
+      "licenseUrl": "https://www.pexels.com/license",
+      "master": {
+        "width": 3840,
+        "height": 2160,
+        "durationSec": 51,
+        "note": "4K-майстер лишається поза репозиторієм (media/_src), на Pages їде лише веб-рендишн"
+      },
+      "files": [
+        {
+          "path": "media/stock/night-highway.jpg",
+          "width": 1920,
+          "height": 1080,
+          "durationSec": 0,
+          "bytes": 146384
+        },
+        {
+          "path": "media/stock/night-highway.mp4",
+          "width": 1920,
+          "height": 1080,
+          "durationSec": 12,
+          "bytes": 2605522
+        },
+        {
+          "path": "media/stock/night-highway-sm.mp4",
+          "width": 1280,
+          "height": 720,
+          "durationSec": 12,
+          "bytes": 845888
+        }
+      ]
+    },
+    {
+      "id": "logistics-yard",
+      "role": "about-band",
+      "intendedUse": "/pro-nas: смуга про дорогу авто до покупця",
+      "isActualVehicle": false,
+      "provider": "pexels",
+      "providerId": 30638867,
+      "pageUrl": "https://www.pexels.com/video/aerial-view-of-modern-industrial-warehouse-complex-30638867/",
+      "creator": "Altaf Shah",
+      "creatorUrl": "https://www.pexels.com/@altaf-shah-3143825",
+      "licenseUrl": "https://www.pexels.com/license",
+      "master": {
+        "width": 3840,
+        "height": 2160,
+        "durationSec": 11,
+        "note": "4K-майстер лишається поза репозиторієм (media/_src), на Pages їде лише веб-рендишн"
+      },
+      "files": [
+        {
+          "path": "media/stock/logistics-yard.jpg",
+          "width": 1920,
+          "height": 1080,
+          "durationSec": 0,
+          "bytes": 356193
+        },
+        {
+          "path": "media/stock/logistics-yard.mp4",
+          "width": 1920,
+          "height": 1080,
+          "durationSec": 9,
+          "bytes": 2611662
+        },
+        {
+          "path": "media/stock/logistics-yard-sm.mp4",
+          "width": 1280,
+          "height": 720,
+          "durationSec": 9,
+          "bytes": 917534
+        }
+      ]
+    },
+    {
+      "id": "carrier",
+      "role": "about-still",
+      "intendedUse": "/pro-nas: кадр автовоза",
+      "isActualVehicle": false,
+      "provider": "pexels",
+      "providerId": 34539243,
+      "pageUrl": "https://www.pexels.com/photo/car-transport-truck-on-road-in-heathwood-34539243/",
+      "creator": "Elite Transport Solutions",
+      "creatorUrl": "https://www.pexels.com/@elite-transport-solutions-2157098629",
+      "licenseUrl": "https://www.pexels.com/license",
+      "master": {
+        "width": 5120,
+        "height": 3840,
+        "durationSec": null,
+        "note": "4K-майстер лишається поза репозиторієм (media/_src), на Pages їде лише веб-рендишн"
+      },
+      "files": [
+        {
+          "path": "media/stock/carrier.jpg",
+          "width": 1880,
+          "height": 1410,
+          "durationSec": 0,
+          "bytes": 443707
+        }
+      ]
+    },
+    {
+      "id": "ukraine-road",
+      "role": "contacts",
+      "intendedUse": "сторінка /kontakty",
+      "isActualVehicle": false,
+      "provider": "pexels",
+      "providerId": 39002194,
+      "pageUrl": "https://www.pexels.com/photo/scenic-road-through-ukrainian-countryside-at-sunset-39002194/",
+      "creator": "Alexander Zvir",
+      "creatorUrl": "https://www.pexels.com/@algrey",
+      "licenseUrl": "https://www.pexels.com/license",
+      "master": {
+        "width": 6772,
+        "height": 4492,
+        "durationSec": null,
+        "note": "4K-майстер лишається поза репозиторієм (media/_src), на Pages їде лише веб-рендишн"
+      },
+      "files": [
+        {
+          "path": "media/stock/ukraine-road.jpg",
+          "width": 1880,
+          "height": 1248,
+          "durationSec": 0,
+          "bytes": 163311
+        }
+      ]
+    }
+  ]
+}
